@@ -1,22 +1,23 @@
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<div style="float: right; margin: 20px;">
+  <img src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" align="right" width="300">
+</div>
 
-# HI Devs!👋
-<p>I am a true enthusiast of data science! I am always diving headfirst into data, 
- <br/> trying to uncover some valuable insights. 
- <br/>What drives me is creativity and the desire to produce truly impactful results.</p>
+# Hi Devs! 👋
 
-```js
+I am a true enthusiast of data science! I am always diving headfirst into data, trying to uncover some valuable insights. What drives me is creativity and the desire to produce truly impactful results.
+
+```python
 class DataScience:
     def __init__(self):
         self.data_scientist = {
             'name': 'Cayo Slowik',
-            'local': 'Curitiba',
+            'location': 'Curitiba',
             'age': 20,
             'skills': {
                 'languages': ['Python', 'SQL'],
-                'libraries': ['Pandas', 'Numpy', 'Scikit-learn', 'TensorFlow', 'Matplotlib', 'Seaborn']
-                'databases': ['MySQL', 'PostgreSQL', 'SQLite']
-                'tools': ['PowerBI', 'Tableau', 'Execel'] 
+                'libraries': ['Pandas', 'Numpy', 'Scikit-learn', 'TensorFlow', 'Matplotlib', 'Seaborn'],
+                'databases': ['MySQL', 'PostgreSQL', 'SQLite'],
+                'tools': ['PowerBI', 'Tableau', 'Excel']
             }
         }
 
@@ -45,3 +46,4 @@ print(info)
   <a href="#" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cayo-data-science/" /></a>
 </p>
+
