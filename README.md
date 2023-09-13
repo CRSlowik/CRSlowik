@@ -6,6 +6,8 @@
 
 I am a true enthusiast of data science! I am always diving headfirst into data, trying to uncover some valuable insights. What drives me is creativity and the desire to produce truly impactful results.
 
+<hr> 
+
 ```python
 class DataScience:
     def __init__(self):
@@ -31,7 +33,7 @@ print(info)
 ```
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=CRSlowik&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300">
 
-### Education
+## Education
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=CRSlowik&color=f8efd4&style=for-the-badge&logo=GitHub">
 
