@@ -4,7 +4,7 @@
 
 # Hi Devs! 👋
 
-I am a true enthusiast of data science! I am always diving headfirst into data, trying to uncover some valuable insights. What drives me is creativity and the desire to produce truly impactful results.
+I am a true enthusiast of data science! I am always diving into data, trying to uncover some valuable insights. What drives me is creativity and the desire to produce truly impactful results.
 
 <hr> 
 
@@ -14,12 +14,12 @@ class DataScience:
         self.data_scientist = {
             'name': 'Cayo Slowik',
             'location': 'Curitiba',
-            'age': 20,
+            'age': 22,
             'skills': {
-                'languages': ['Python', 'SQL'],
+                'languages': ['Python', 'SQL', 'C#'],
                 'libraries': ['Pandas', 'Numpy', 'Scikit-learn', 'TensorFlow', 'Matplotlib', 'Seaborn'],
-                'databases': ['MySQL', 'PostgreSQL', 'SQLite'],
-                'tools': ['PowerBI', 'Tableau', 'Excel']
+                'databases': ['Databricks', 'MSSQL'],
+                'tools': ['PowerBI', 'Azure', 'Docker']
             }
         }
 
@@ -37,7 +37,7 @@ print(info)
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=CRSlowik&color=f8efd4&style=for-the-badge&logo=GitHub">
 
-<p> I'm graduating in Data Science with an  <br/> emphasis on Artificial Intelligence at UniAmérica.</p>
+<p> I'm graduating in Mathematics with an  <br/> emphasis on Artificial Intelligence at Uninter</p>
 
 <hr>
 
